@@ -1,0 +1,23 @@
+{
+  "name": "catnip-capital",
+  "version": "1.0.0",
+  "description": "Catnip Capital - A shady VC cat who will definitely not rug your investments",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "crypto",
+    "meme",
+    "vc",
+    "cat",
+    "ai"
+  ],
+  "author": "Ayyub",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
